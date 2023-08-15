@@ -1,6 +1,6 @@
 # Image Whitener
 
-Image Whitener es una herramienta simple desarrollada en Python que te permite convertir imágenes en una carpeta y sus subcarpetas en imágenes con fondo blanco. Este proyecto es especialmente útil para crear paquetes de texturas personalizados para juegos como Minecraft.
+Image Whitener es una herramienta simple desarrollada en Python que te permite convertir imágenes en una carpeta y sus subcarpetas en imágenes en blanco. Este proyecto es especialmente útil para crear paquetes de texturas personalizados para juegos como Minecraft.
 
 ## Características
 
